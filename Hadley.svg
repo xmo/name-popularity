@@ -1,0 +1,17 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for hadley">
+<title>Last ranked
+#111 in 2020 (f)
+#756 in 1909 (m)</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-hadley-f">
+<path d=" M130.0893 39 L130.6429 38.8 L131.1964 38.8 M132.3036 38.8 L132.8571 38.6 L133.9643 38.4 L135.0714 38.4 L136.1786 37.2 L137.2857 37.2 L138.3929 36.6 L139.5 35 L140.6071 34.6 L141.7143 33.6 L142.8214 32.2 L143.9286 26.4 L145.0357 22.8 L146.1429 16 L147.25 11.6 L148.3571 10.2 L149.4643 10.4 L150.5714 11.2 L151.6786 12.2 L152.7857 10 L153.8929 12.8 L155 13.4"/>
+</g>
+<g style="fill:none;stroke:#0000ff;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-hadley-m">
+<path d=" M30.4464 40 L31 39 L32.1071 39.4 L32.6607 40"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for nyla">
+<title>Last ranked
+#248 in 2020</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-nyla-f">
+<path d=" M66.9821 39.2222 L67.5357 38.3333 L68.0893 39.2222 M133.4107 36.1111 L133.9643 35.2222 L135.0714 26.7778 L136.1786 27.2222 L137.2857 24.5556 L138.3929 21.8889 L139.5 23.2222 L140.6071 25.8889 L141.7143 24.1111 L142.8214 23.2222 L143.9286 23.2222 L145.0357 17.8889 L146.1429 19.2222 L147.25 17 L148.3571 16.5556 L149.4643 18.3333 L150.5714 17.8889 L151.6786 15.6667 L152.7857 13.8889 L153.8929 9.8889 L155 10.3333"/>
+</g>
+</g>
+</svg>

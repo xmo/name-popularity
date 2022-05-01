@@ -1,0 +1,17 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for raven">
+<title>Last ranked
+#417 in 2020 (f)
+#988 in 2002 (m)</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-raven-f">
+<path d=" M106.8393 39.4 L107.3929 37.4 L108.5 36.8 L109.6071 37 L110.7143 36.4 L111.8214 36.8 L112.9286 35.8 L114.0357 36.2 L115.1429 36.4 L116.25 36.6 L117.3571 37.4 L118.4643 37.2 L119.5714 37.6 L120.6786 36.2 L121.7857 23.8 L122.8929 21 L124 20.8 L125.1071 17.8 L126.2143 19.8 L127.3214 22.8 L128.4286 24 L129.5357 22.4 L130.6429 24 L131.75 25.4 L132.8571 26.4 L133.9643 27.4 L135.0714 27.4 L136.1786 26.8 L137.2857 29 L138.3929 32 L139.5 34 L140.6071 35 L141.7143 36.2 L142.8214 36.2 L143.9286 36 L145.0357 36 L146.1429 35.2 L147.25 35 L148.3571 34.6 L149.4643 34.2 L150.5714 34.4 L151.6786 33.4 L152.7857 33 L153.8929 32.8 L155 32.6"/>
+</g>
+<g style="fill:none;stroke:#0000ff;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-raven-m">
+<path d=" M128.9821 39.8 L129.5357 39.6 L130.6429 39.4 L131.75 39.2 L132.8571 39.4 L133.9643 39.2 L135.0714 39.4 L135.625 39.4"/>
+</g>
+</g>
+</svg>

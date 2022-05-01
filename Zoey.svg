@@ -1,0 +1,13 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for zoey">
+<title>Last ranked
+#32 in 2020</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-zoey-f">
+<path d=" M126.7679 40 L127.3214 39.9 L128.4286 39.2 L129.5357 38.9 L130.6429 38.5 L131.75 38.1 L132.8571 37.5 L133.9643 36.8 L135.0714 35 L136.1786 33.7 L137.2857 33 L138.3929 29.8 L139.5 27.3 L140.6071 26.6 L141.7143 24.4 L142.8214 21.3 L143.9286 14.4 L145.0357 7.9 L146.1429 2.4 L147.25 3.4 L148.3571 3 L149.4643 5.3 L150.5714 7.6 L151.6786 8.9 L152.7857 9.1 L153.8929 9.9 L155 10.6"/>
+</g>
+</g>
+</svg>

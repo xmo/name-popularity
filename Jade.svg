@@ -1,0 +1,17 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for jade">
+<title>Last ranked
+#97 in 2020 (f)
+#958 in 2001 (m)</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-jade-f">
+<path d=" M104.625 39.4 L105.1786 39.2 L106.2857 39.2 L107.3929 39 L108.5 38.4 L109.6071 37.8 L110.7143 38 L111.8214 37.4 L112.9286 34.2 L114.0357 32.8 L115.1429 33.6 L116.25 33.2 L117.3571 31.6 L118.4643 31.8 L119.5714 32.2 L120.6786 29.4 L121.7857 28.2 L122.8929 27.2 L124 24.2 L125.1071 19.8 L126.2143 21 L127.3214 22.4 L128.4286 17.6 L129.5357 14.8 L130.6429 13.6 L131.75 12.4 L132.8571 12.2 L133.9643 7.8 L135.0714 4.2 L136.1786 7.2 L137.2857 10.8 L138.3929 12.4 L139.5 12.4 L140.6071 12.4 L141.7143 15.6 L142.8214 16.4 L143.9286 13.2 L145.0357 13.4 L146.1429 12.8 L147.25 14.2 L148.3571 16.6 L149.4643 14.6 L150.5714 13.2 L151.6786 12 L152.7857 12 L153.8929 11.2 L155 10"/>
+</g>
+<g style="fill:none;stroke:#0000ff;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-jade-m">
+<path d=" M96.875 40.4 L97.4286 40.4 L98.5357 40.4 L99.6429 39.8 L100.75 40 L101.8571 39.8 L102.9643 39.8 L104.0714 39.8 L105.1786 39.6 L106.2857 39.6 L107.3929 39.8 L108.5 39.4 L109.6071 39.8 L110.7143 39.8 L111.8214 40 L112.9286 40 L114.0357 40 L115.1429 40 L116.25 40 L117.3571 40 L117.9107 40 M119.0179 40 L119.5714 39.8 L120.6786 39.8 L121.7857 39.6 L122.8929 39.6 L124 39.2 L125.1071 39.2 L126.2143 39.2 L127.3214 39.2 L128.4286 39.2 L129.5357 39.6 L130.0893 39.6 M131.1964 39.6 L131.75 39.6 L132.3036 39.6 M133.4107 39.6 L133.9643 39.4 L134.5179 39.4"/>
+</g>
+</g>
+</svg>

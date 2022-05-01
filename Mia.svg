@@ -1,0 +1,13 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for mia">
+<title>Last ranked
+#8 in 2020</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-mia-f">
+<path d=" M92.4464 40.7 L93 40.25 L94.1071 38.1 L95.2143 38.95 L96.3214 38.85 L97.4286 39 L98.5357 39.7 L99.6429 39.65 L100.75 39.65 L101.8571 39.7 L102.9643 39.9 L104.0714 39.75 L105.1786 39.8 L106.2857 39.85 L107.3929 39.65 L108.5 39.4 L109.6071 39.25 L110.7143 39.1 L111.8214 39 L112.9286 39.5 L114.0357 39.7 L115.1429 39.75 L116.25 39.65 L117.3571 39.65 L118.4643 39.55 L119.5714 39.4 L120.6786 39.35 L121.7857 39.1 L122.8929 39.1 L124 38.95 L125.1071 39 L126.2143 38.8 L127.3214 38.15 L128.4286 36.6 L129.5357 34.45 L130.6429 34.4 L131.75 33.95 L132.8571 32.35 L133.9643 31.1 L135.0714 25.15 L136.1786 23.35 L137.2857 22.65 L138.3929 14.25 L139.5 12.25 L140.6071 15.2 L141.7143 16.55 L142.8214 12.75 L143.9286 13.85 L145.0357 11.2 L146.1429 9.95 L147.25 6.85 L148.3571 6.4 L149.4643 2.75 L150.5714 3.65 L151.6786 5.2 L152.7857 6.75 L153.8929 6.85 L155 9.15"/>
+</g>
+</g>
+</svg>

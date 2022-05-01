@@ -1,0 +1,17 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for haven">
+<title>Last ranked
+#310 in 2020 (f)
+#714 in 1899 (m)</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-haven-f">
+<path d=" M127.875 36 L128.4286 35.5 L128.9821 36 M130.0893 36 L130.6429 35 L131.75 33.5 L132.8571 33.5 L133.9643 31 L135.0714 31 L136.1786 29.5 L137.2857 31 L138.3929 30 L139.5 29.5 L140.6071 29 L141.7143 29 L142.8214 27.5 L143.9286 29.5 L145.0357 28 L146.1429 22.5 L147.25 19 L148.3571 15 L149.4643 15.5 L150.5714 12.5 L151.6786 12 L152.7857 12.5 L153.8929 13 L155 12"/>
+</g>
+<g style="fill:none;stroke:#0000ff;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-haven-m">
+<path d=" M20.4821 38.5 L21.0357 37 L21.5893 38.5"/>
+</g>
+</g>
+</svg>

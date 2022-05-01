@@ -1,0 +1,17 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for sawyer">
+<title>Last ranked
+#116 in 2020 (m)
+#237 in 2020 (f)</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#0000ff;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-sawyer-m">
+<path d=" M122.3393 40.3333 L122.8929 40.2 L124 39.1333 L125.1071 38.6 L126.2143 37.9333 L127.3214 38.0667 L128.4286 38.4667 L129.5357 38.4667 L130.6429 38.2 L131.75 37.9333 L132.8571 37.6667 L133.9643 37.9333 L135.0714 38.0667 L136.1786 37.4 L137.2857 37.2667 L138.3929 34.3333 L139.5 32.6 L140.6071 31.9333 L141.7143 30.7333 L142.8214 29.1333 L143.9286 26.6 L145.0357 26.7333 L146.1429 23 L147.25 20.0667 L148.3571 17.5333 L149.4643 13.1333 L150.5714 13 L151.6786 12.8667 L152.7857 14.3333 L153.8929 16.2 L155 18.0667"/>
+</g>
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-sawyer-f">
+<path d=" M143.375 39.2667 L143.9286 38.6 L145.0357 38.3333 L146.1429 37.2667 L147.25 36.2 L148.3571 34.4667 L149.4643 32.6 L150.5714 32.2 L151.6786 31.1333 L152.7857 30.7333 L153.8929 31.5333 L155 31.4"/>
+</g>
+</g>
+</svg>

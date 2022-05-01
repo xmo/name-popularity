@@ -1,0 +1,13 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for amaya">
+<title>Last ranked
+#140 in 2020</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-amaya-f">
+<path d=" M131.1964 39 L131.75 33.8 L132.8571 24.6 L133.9643 30.4 L135.0714 29.8 L136.1786 23.4 L137.2857 25 L138.3929 26 L139.5 25.8 L140.6071 25 L141.7143 24.8 L142.8214 25.2 L143.9286 26.8 L145.0357 25.6 L146.1429 25.8 L147.25 26.8 L148.3571 27 L149.4643 25.4 L150.5714 24.6 L151.6786 22.8 L152.7857 16.6 L153.8929 18.4 L155 19.2"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for willow">
+<title>Last ranked
+#48 in 2020</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-willow-f">
+<path d=" M130.0893 39.6667 L130.6429 39.2667 L131.75 38.8667 L132.8571 39 L133.9643 38.4667 L135.0714 37.2667 L136.1786 37.4 L137.2857 37.5333 L138.3929 37.4 L139.5 37.2667 L140.6071 36.2 L141.7143 35.9333 L142.8214 34.0667 L143.9286 33.4 L145.0357 30.2 L146.1429 28.3333 L147.25 26.6 L148.3571 24.6 L149.4643 21.8 L150.5714 19.5333 L151.6786 15.8 L152.7857 12.8667 L153.8929 7.5333 L155 7.9333"/>
+</g>
+</g>
+</svg>

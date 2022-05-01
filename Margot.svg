@@ -1,0 +1,13 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for margot">
+<title>Last ranked
+#234 in 2020</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-margot-f">
+<path d=" M37.0893 38.7778 L37.6429 38.7778 L38.1964 39.2222 M53.6964 38.7778 L54.25 38.3333 L55.3571 37.4444 L56.4643 38.3333 L57.5714 37.4444 L58.6786 36.5556 L59.7857 36.1111 L60.8929 36.5556 L62 35.6667 L63.1071 36.1111 L64.2143 35.6667 L65.3214 36.5556 L66.4286 36.1111 L67.5357 36.1111 L68.6429 37 L69.75 37 L70.8571 37.4444 L71.9643 36.5556 L73.0714 37.8889 L74.1786 38.7778 L75.2857 37.8889 L76.3929 38.3333 L77.5 38.3333 L78.6071 37.8889 L79.7143 37.8889 L80.8214 37.8889 L81.9286 38.7778 L83.0357 38.3333 L83.5893 38.7778 M86.9107 38.7778 L87.4643 38.3333 L88.5714 37.8889 L89.6786 38.3333 L90.7857 37.4444 L91.8929 37.8889 L93 37.8889 L94.1071 38.3333 L95.2143 38.3333 L95.7679 38.3333 M146.6964 35.2222 L147.25 34.7778 L148.3571 32.5556 L149.4643 29.4444 L150.5714 24.1111 L151.6786 20.5556 L152.7857 19.6667 L153.8929 15.2222 L155 9"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for layla">
+<title>Last ranked
+#24 in 2020</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-layla-f">
+<path d=" M101.3036 40.3 L101.8571 40.2 L102.9643 40 L104.0714 39.8 L105.1786 39.8 L106.2857 39.9 L107.3929 39.7 L108.5 40.1 L109.0536 40.2 M124.5536 40.1 L125.1071 39.4 L126.2143 39.9 L127.3214 39.8 L128.4286 39.9 L128.9821 40 M130.0893 40 L130.6429 39.7 L131.75 39.2 L132.8571 37.5 L133.9643 36.2 L135.0714 35.6 L136.1786 32.6 L137.2857 31 L138.3929 29.3 L139.5 24.9 L140.6071 22.6 L141.7143 17.3 L142.8214 15.3 L143.9286 10.9 L145.0357 9.6 L146.1429 8.6 L147.25 7.3 L148.3571 8 L149.4643 8.5 L150.5714 8.5 L151.6786 7.5 L152.7857 6 L153.8929 5.4 L155 5.7"/>
+</g>
+</g>
+</svg>

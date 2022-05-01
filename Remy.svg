@@ -1,0 +1,17 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for remy">
+<title>Last ranked
+#355 in 2020 (m)
+#496 in 2020 (f)</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#0000ff;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-remy-m">
+<path d=" M142.2679 35.8571 L142.8214 35.2857 L143.9286 34.1429 L145.0357 34.1429 L146.1429 34.1429 L147.25 32.4286 L148.3571 29 L149.4643 25.5714 L150.5714 22.7143 L151.6786 21.5714 L152.7857 19.8571 L153.8929 18.7143 L155 14.1429"/>
+</g>
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-remy-f">
+<path d=" M147.8036 33.5714 L148.3571 33 L149.4643 31.2857 L150.5714 29 L151.6786 25.5714 L152.7857 23.2857 L153.8929 23.2857 L155 21"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for mackenzie">
+<title>Last ranked
+#119 in 2020 (f)
+#911 in 2001 (m)</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-mackenzie-f">
+<path d=" M105.7321 40.2 L106.2857 40 L107.3929 39.6 L108.5 39.6 L109.6071 40 L110.7143 39.7 L111.8214 39.7 L112.9286 39.6 L114.0357 39.5 L115.1429 39.1 L116.25 38.7 L117.3571 38.3 L118.4643 37.2 L119.5714 37 L120.6786 36.7 L121.7857 35.4 L122.8929 33.6 L124 27.7 L125.1071 26.3 L126.2143 24.6 L127.3214 20.4 L128.4286 17 L129.5357 17.5 L130.6429 15.8 L131.75 13.1 L132.8571 9.2 L133.9643 6 L135.0714 9.3 L136.1786 11.8 L137.2857 12.6 L138.3929 15.4 L139.5 16.1 L140.6071 19.1 L141.7143 19.5 L142.8214 21.7 L143.9286 21.2 L145.0357 21.4 L146.1429 21.6 L147.25 20.1 L148.3571 19.7 L149.4643 21.2 L150.5714 23.4 L151.6786 25.3 L152.7857 25.8 L153.8929 26.9 L155 28"/>
+</g>
+<g style="fill:none;stroke:#0000ff;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-mackenzie-m">
+<path d=" M115.6964 40.6 L116.25 40.5 L117.3571 40.2 L118.4643 39.9 L119.5714 39.7 L120.6786 39.4 L121.7857 39.4 L122.8929 39.1 L124 38.4 L125.1071 38.2 L126.2143 37.8 L127.3214 38.1 L128.4286 38.7 L129.5357 39.1 L130.6429 39.6 L131.75 39.6 L132.8571 39.8 L133.9643 40.2 L134.5179 40.2"/>
+</g>
+</g>
+</svg>

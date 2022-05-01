@@ -1,0 +1,13 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for savannah">
+<title>Last ranked
+#67 in 2020</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-savannah-f">
+<path d="M0 39.3 L1.1071 38.6 L2.2143 39.3 L3.3214 38.8 L4.4286 38.4 L5.5357 39.2 L6.6429 38.9 L7.75 38.9 L8.8571 39 L9.9643 39.3 L11.0714 39.4 L12.1786 39 L13.2857 38.9 L14.3929 39.5 L15.5 39.4 L16.6071 39.5 L17.7143 39.8 L18.8214 39.5 L19.9286 39.3 L21.0357 39.5 L22.1429 39.3 L23.25 39.2 L24.3571 39.1 L25.4643 39.7 L26.5714 39.9 L27.6786 39.2 L28.7857 39.8 L29.8929 39.7 L31 39.7 L32.1071 39.7 L33.2143 39.6 L34.3214 40 L35.4286 40 L36.5357 40.2 L37.6429 40.2 L38.75 40.4 L39.8571 40.4 L40.9643 40.3 L42.0714 40.4 L43.1786 40.4 L44.2857 40.3 L45.3929 40.4 L46.5 40.4 L47.0536 40.5 M48.1607 40.5 L48.7143 40.3 L49.8214 40.4 L50.375 40.5 M52.5893 40.5 L53.1429 40.5 L53.6964 40.5 M55.9107 40.5 L56.4643 40.5 L57.0179 40.5 M113.4821 40.2 L114.0357 38.6 L115.1429 36.2 L116.25 33.8 L117.3571 31.2 L118.4643 33.2 L119.5714 34.2 L120.6786 34.5 L121.7857 34.2 L122.8929 32.9 L124 30.1 L125.1071 24 L126.2143 18.5 L127.3214 15.5 L128.4286 4.5 L129.5357 6.5 L130.6429 7.7 L131.75 6 L132.8571 5.4 L133.9643 7 L135.0714 7.7 L136.1786 10.3 L137.2857 12.2 L138.3929 9 L139.5 7.1 L140.6071 7.7 L141.7143 11.6 L142.8214 13.3 L143.9286 13.6 L145.0357 12.8 L146.1429 14.2 L147.25 13.7 L148.3571 13 L149.4643 13 L150.5714 13.2 L151.6786 13.2 L152.7857 15.3 L153.8929 18.2 L155 20.9"/>
+</g>
+</g>
+</svg>

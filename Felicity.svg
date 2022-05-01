@@ -1,0 +1,13 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for felicity">
+<title>Last ranked
+#386 in 2020</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-felicity-f">
+<path d=" M130.0893 35.2857 L130.6429 33.5714 L131.75 19.8571 L132.8571 22.7143 L133.9643 25 L135.0714 26.7143 L136.1786 29 L137.2857 30.1429 L138.3929 29.5714 L139.5 28.4286 L140.6071 30.1429 L141.7143 29 L142.8214 30.7143 L143.9286 30.7143 L145.0357 28.4286 L146.1429 28.4286 L147.25 26.1429 L148.3571 22.7143 L149.4643 14.1429 L150.5714 13.5714 L151.6786 12.4286 L152.7857 13.5714 L153.8929 13.5714 L155 15.2857"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+<svg viewBox="0 0 155 58" preserveAspectRatio="none" class="svggraph" id="svgthumb_us" style="overflow:visible;width:155px;height:58px;" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" title="Chart for kamryn">
+<title>Last ranked
+#458 in 2020 (f)
+#852 in 2020 (m)</title>
+<rect x="2" y="43" height="13" width="17" style="fill:rgb(200,200,200)"/>
+<image x="2.5" y="43.5" href="/images/flags/24/us.png" preserveAspectRatio="xMinYMax meet" width="16" height="12"/>
+<text x="153" y="55" class="svgtitle" text-anchor="end" style="fill:#000000;font-size:13px;">United States</text>
+<line x1="0" y1="41" x2="155" y2="41" class="svggridline" style="stroke:rgb(200,200,200);stroke-width:1.3"/>
+<g id="svgthumb_us-namepaths">
+<g style="fill:none;stroke:#ff0000;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-kamryn-f">
+<path d=" M130.0893 36 L130.6429 29.5 L131.75 18 L132.8571 18 L133.9643 16 L135.0714 19 L136.1786 22 L137.2857 14.5 L138.3929 11.5 L139.5 12 L140.6071 12 L141.7143 10.5 L142.8214 13 L143.9286 14 L145.0357 15 L146.1429 18.5 L147.25 19.5 L148.3571 19 L149.4643 17.5 L150.5714 18.5 L151.6786 20.5 L152.7857 22.5 L153.8929 23 L155 22"/>
+</g>
+<g style="fill:none;stroke:#0000ff;stroke-width:1.3;" class="svgcurveline" id="svgthumb_us-kamryn-m">
+<path d=" M140.0536 37 L140.6071 36.5 L141.1607 36.5 M142.2679 36.5 L142.8214 36 L143.9286 35.5 L145.0357 35 L146.1429 34.5 L147.25 35 L148.3571 35.5 L149.4643 34.5 L150.5714 34 L151.6786 35 L152.7857 33 L153.8929 33.5 L155 34"/>
+</g>
+</g>
+</svg>
